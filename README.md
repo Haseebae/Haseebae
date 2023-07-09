@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Haseeb's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseebae&theme=transparent)
+![Haseeb's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseebae&theme=transparent)
 
 [![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseebae)](https://github.com/anuraghazra/github-readme-stats)
 <!--
