@@ -2,7 +2,7 @@
 
 ![Haseeb's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseebae&theme=transparent)
 
-![Haseeb's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude})
+![Haseeb's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haseebae&theme=transparent&exclude={exclude})
 <!--
 **Haseebae/Haseebae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
