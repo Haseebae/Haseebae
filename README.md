@@ -5,9 +5,11 @@
 - Python
 - Sci-kit Learn
 - Tensorflow
-- React Js
 - SQL
+- React Js
 - C
+- Data Analysis
+- Data Visualisation
 
 ### I'm currently working on :
 1. Medical app to connect patients and doctors.
