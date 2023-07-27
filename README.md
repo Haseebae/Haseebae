@@ -1,4 +1,4 @@
-![image](https://github.com/Haseebae/Haseebae/assets/75690804/dcf4bd28-b22f-4406-90a2-3270688dafd7)
+![Hi, I'm Haseeb](https://github.com/Haseebae/Haseebae/assets/75690804/0d4911a4-b7c1-4cfc-a9a3-02de8a514e9c)
 
 ### I'm a B-Tech CSE Student specializing in AI&ML, and extremely passionate about making innovative tech.
 #### SKILLS:
