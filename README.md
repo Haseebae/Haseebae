@@ -12,8 +12,8 @@
 ### LANGUAGES:
 - Python
 - C
+- Java
 - SQL
-- React Js
 
 ### LIBRARIES AND FRAMEWORKS:
 - Numpy
@@ -21,10 +21,10 @@
 - Matplotlib
 - Scikit-Learn
 - Tensorflow
+- React Js
 - Next Js
 
 ### I'm currently working on :
-1. Medical app to connect patients and doctors.
-2. Speech model for LLMs
+- A KYR framework with a Legal LLM.
 
 
