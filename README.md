@@ -25,6 +25,6 @@
 - Next Js
 
 ### I'm currently working on :
-- A KYR framework with a Legal LLM.
+- Linguistic research with my professor
 
 
