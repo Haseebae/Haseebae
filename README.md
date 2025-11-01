@@ -8,7 +8,7 @@ I’m a **Data Scientist at Harman International**, working at the intersection 
 ---
 
 ### 🚀 Current Role
-**Data Scientist – AI & ML Dept. @ Harman International**  
+**Data Scientist – AI & ML Dept. @ Harman DTS**  
 **Jan 2024 – Present**
 
 - **Tech Lead** for multiple end-to-end GenAI projects in cybersecurity & compliance.
