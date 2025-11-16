@@ -1,6 +1,3 @@
-![Hi, I'm Haseeb](https://github.com/Haseebae/Haseebae/assets/75690804/0d4911a4-b7c1-4cfc-a9a3-02de8a514e9c)
-
-
 ## 👋 Hi, I’m Haseeb Abdulla
 
 I’m a **Data Scientist at Harman International**, working at the intersection of **AI/ML, full-stack development, and GenAI agent systems**. I specialize in building **autonomous systems**, **compliance tools**, and **multimodal AI applications**, especially in **cybersecurity**, **healthcare**, and **document automation** domains.
