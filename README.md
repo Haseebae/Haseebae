@@ -37,7 +37,6 @@ I specialize in architecting **multi-agent frameworks**, **cognitive planning sy
 * **[English-to-Hinglish Translation]** * Trained Seq2Seq Transformer models on code-mixed datasets, reducing training time from 30 mins to 2 mins while eliminating repetition.
 
 * **[IEEE Publication: Deep Learning in Fashion]** * Proposed a CNN-GAN architecture for virtual try-on and neural body fit estimation.  
-    * [[Read Paper](https://ieeexplore.ieee.org/document/10074341)]
 
 ---
 
