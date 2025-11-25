@@ -1,79 +1,60 @@
-## 👋 Hi, I’m Haseeb Abdulla
+## 👋 Hi, I’m Haseeb Kollorath
 
-I’m a **Data Scientist at Harman International**, working at the intersection of **AI/ML, full-stack development, and GenAI agent systems**. I specialize in building **autonomous systems**, **compliance tools**, and **multimodal AI applications**, especially in **cybersecurity**, **healthcare**, and **document automation** domains.
+I’m a **Research-focused ML Practitioner** and **Associate Data Scientist at Harman International** (Samsung). My work bridges the gap between **Autonomous Agent Systems**, **Reinforcement Learning**, and **Scalable MLOps**.
+
+I specialize in architecting **multi-agent frameworks**, **cognitive planning systems**, and **fine-tuning VLMs/LLMs** for complex domain-specific tasks.
 
 ---
 
 ### 🚀 Current Role
-**Data Scientist – AI & ML Dept. @ Harman DTS**  
-**Jan 2024 – Present**
+**Associate Data Scientist – AI & ML Dept. @ Harman DTS** **Jan 2024 – Present**
 
-- **Tech Lead** for multiple end-to-end GenAI projects in cybersecurity & compliance.
-- Built and deployed autonomous agents for incident resolution, achieving a **40% faster MTTR**.
-- Engineered multimodal systems for regulatory document generation & invoice processing.
-- Managed AWS accounts, stakeholder communication, and direct client engagements.
+* **Tech Lead (Gen-AI Invoice Processing):** Architected a multi-agent system with **Ray** (distributed computing) and **Prefect** (orchestration), achieving O(max) processing time via parallel execution. Fine-tuned **Qwen 2.5 VL** (3B) using QLora to achieve 78% F1-score.
+* **Tech Lead (SecOps Copilot):** Developed an incident triaging agent integrating **Microsoft Sentinel** & **MISP**, reducing Mean Time to Respond (MTTR) by **40%**.
+* **Research:** Investigating RL-based fine-tuning (GRPO, R-Zero) and cognitive frameworks (planning, memory) for autonomous agents.
+* **Mentorship:** Conducting AI agent development sessions for 100+ engineers.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-Python, C, C++, Java, SQL
-
-**Libraries & Frameworks**  
-Transformers, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, FastAPI, Django
-
-**GenAI Tools**  
-LangChain, LangGraph, Ollama, HuggingFace, vLLM, LlamaIndex, Autogen
-
-**Databases**  
-MySQL, MongoDB, QdrantDB
-
-**Cloud & DevOps**  
-AWS, Azure, Docker, Kubernetes, Microsoft Sentinel
-
-**Frontend**  
-React.js, Next.js
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, C, Java, SQL |
+| **GenAI & Agents** | LangChain, LangGraph, Autogen, LlamaIndex, Ollama, Hugging Face, Galileo |
+| **ML & DL** | PyTorch, TensorFlow, Transformers, Scikit-learn, MLFlow |
+| **MLOps & Infra** | Docker, Kubernetes, Prefect, Ray (Distributed ML), AWS, GCP, Azure |
+| **Databases** | Qdrant (Vector), Neo4j (Graph), PostgreSQL, MongoDB, AWS DocumentDB |
+| **Backend** | FastAPI, Django, RESTful Services, SSE Streaming |
 
 ---
 
-### 📊 Experience Highlights
+### 🧪 Research & Personal Projects
 
-- **AI-powered Billing System** @ Olivia Family Restaurant  
-  Cut validation time by **96%**, integrating future-ready vendor workflows.
+* **[PokeAgent - NeurIPS/Google DeepMind Challenge]** *Leading a team to develop a VLM-powered autonomous agent for long-horizon planning.* * **Tech:** Neo4j (Lore Mapping), NetworkX (Task Planning), Custom A* Planner.
+    * **Focus:** Generalized HTN (Hierarchical Task Network) planning frameworks.
 
-- **Physiopop – AI Startup Internship**  
-  Built a **pose-estimation based gait analysis pipeline** and visual dashboards.
+* **[English-to-Hinglish Translation]** * Trained Seq2Seq Transformer models on code-mixed datasets, reducing training time from 30 mins to 2 mins while eliminating repetition.
 
-- **Stock Prediction with LSTM**  
-  Built full-stack predictive pipelines using LSTM, PyTorch, TensorFlow, and ESP32.
-
----
-
-### 🧠 Research & Innovation
-
-- **IEEE Research Paper:** *Deep Learning: A New Way of Looking into Fashion*  
-  Developed a **virtual try-on system** using CNNs and led a team of 4 researchers.  
-  [[Read Paper](https://ieeexplore.ieee.org/document/10074341)]
-
-- Exploring **transition state theory for agents** and **multi-agent communication** using RL.
+* **[IEEE Publication: Deep Learning in Fashion]** * Proposed a CNN-GAN architecture for virtual try-on and neural body fit estimation.  
+    * [[Read Paper](https://ieeexplore.ieee.org/document/10074341)]
 
 ---
 
-### 🏆 Achievements
+### 🏆 Honors & Entrepreneurship
 
-- 🥇 *Solving for India Hackathon* – GeeksforGeeks | Google | AMD  
-- 🥉 *Hack-A-Thon* – PW Skills  
+* **Be Brilliant Rising Star Innovation Award (Sep 2025)** – Recognized by Harman DTS for R&D in multi-agent systems.
+* **Co-Founder & CTO @ Olivia Family Restaurant** – Built an AI-powered billing system reducing validation time by **96%**.
+* **Solving for India Hackathon Winner** – Geeks for Geeks / Google / AMD.
 
 ---
 
 ### 📚 Certifications
 
-- Microsoft Azure AI-900  
-- Generative AI with Large Language Models – DeepLearning.AI  
-- TensorFlow for AI/ML/DL – DeepLearning.AI
+* **AWS AI Practitioner**
+* **Generative AI with LLMs** – DeepLearning.AI
+* **Microsoft Azure AI-900**
 
 ---
 
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/haseeba3) 
-
+Feel free to [connect with me on LinkedIn](https://linkedin.com/in/Haseeba3)
