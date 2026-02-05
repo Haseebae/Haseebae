@@ -12,15 +12,15 @@ Previously at **Harman International (Samsung)**, I led initiatives in multi-age
 **Jan 2026 – Present**
 
 * **Research Focus:**
-* **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
-* **Memory & Infrastructure:** Investigating **Agentic Memory Systems at scale** and developing **Cross-Platform FaaS (XFaaS)** for one-touch deployment of hybrid cloud applications (AWS/Azure).
-* **Federated Learning:** Researching scalable architectures for **Federated Machine Learning (FedML)**.
+  * **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
+  * **Memory & Infrastructure:** Investigating **Agentic Memory Systems at scale** and developing **Cross-Platform FaaS (XFaaS)** for one-touch deployment of hybrid cloud applications (AWS/Azure).
+  * **Federated Learning:** Researching scalable architectures for **Federated Machine Learning (FedML)**.
 
 
 * **Teaching Assistant (DS256: Scalable Systems for Data Science):**
-* Assisting Professor Yogesh Simmhan in guiding students through large-scale distributed computing concepts.
-* **Infrastructure & Curriculum:** Orchestrating the lab’s **inaugural Language Model training pipeline**. Guiding students in architecting data pipelines for **4TB of CommonCrawl data** using **Apache Spark** on an **HDFS cluster**.
-* **Distributed Training:** Supervising the implementation of **PyTorch Distributed** for training and inference of LLMs on cluster environments.
+  * Assisting Professor Yogesh Simmhan in guiding students through large-scale distributed computing concepts.
+  * **Infrastructure & Curriculum:** Orchestrating the lab’s **inaugural Language Model training pipeline**. Guiding students in architecting data pipelines for **4TB of CommonCrawl data** using **Apache Spark** on an **HDFS cluster**.
+  * **Distributed Training:** Supervising the implementation of **PyTorch Distributed** for training and inference of LLMs on cluster environments.
 
 
 
