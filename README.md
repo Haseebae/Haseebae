@@ -9,7 +9,7 @@ Previously at **Harman International (Samsung)**, I led initiatives in multi-age
 ### 🚀 Professional & Research Experience
 
 **Research Staff – Cloud & Agentic Systems @ IISc DREAM Lab**
-**Jan 2025 – Present**
+**Jan 2026 – Present**
 
 * **Research Focus:**
 * **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
@@ -25,7 +25,7 @@ Previously at **Harman International (Samsung)**, I led initiatives in multi-age
 
 
 **Associate Data Scientist – AI & ML Dept. @ Harman DTS**
-**Jan 2024 – Jan 2025**
+**Jan 2024 – Jan 2026**
 
 * **Tech Lead (Gen-AI Invoice Processing):** Architected a multi-agent system with **Ray** and **Prefect**, achieving optimized processing time via parallel execution. Fine-tuned **Qwen 2.5 VL** (3B) using QLora to achieve 78% F1-score.
 * **Tech Lead (SecOps Copilot):** Developed an incident triaging agent integrating **Microsoft Sentinel** & **MISP**, reducing Mean Time to Respond (MTTR) by **40%**.
