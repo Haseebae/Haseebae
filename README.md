@@ -1,42 +1,67 @@
 ## 👋 Hi, I’m Haseeb Kollorath
 
-I’m a **Research-focused ML Practitioner** and **Associate Data Scientist at Harman International** (Samsung). My work bridges the gap between **Autonomous Agent Systems**, **Reinforcement Learning**, and **Scalable MLOps**.
+I’m a **Research Staff Member at IISc DREAM Lab** and a Machine Learning Practitioner specializing in **Cloud Computing**, **Scalable Agentic Systems**, and **Federated Learning**. My work focuses on building infrastructure for **Massive Agent Interaction Workflows**, **Distributed Agent Architectures**, and **Hybrid Cloud Applications (XFaaS)**.
 
-I specialize in architecting **multi-agent frameworks**, **cognitive planning systems**, and **fine-tuning VLMs/LLMs** for complex domain-specific tasks.
+Previously at **Harman International (Samsung)**, I led initiatives in multi-agent frameworks and SecOps automation. I am deeply invested in bridging the gap between distributed systems and advanced AI, currently facilitating the training of large-scale language models on distributed clusters.
 
 ---
 
-### 🚀 Current Role
-**Associate Data Scientist – AI & ML Dept. @ Harman DTS** **Jan 2024 – Present**
+### 🚀 Professional & Research Experience
 
-* **Tech Lead (Gen-AI Invoice Processing):** Architected a multi-agent system with **Ray** (distributed computing) and **Prefect** (orchestration), achieving O(max) processing time via parallel execution. Fine-tuned **Qwen 2.5 VL** (3B) using QLora to achieve 78% F1-score.
+**Research Staff – Cloud & Agentic Systems @ IISc DREAM Lab**
+**Jan 2025 – Present**
+
+* **Research Focus:**
+* **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
+* **Memory & Infrastructure:** Investigating **Agentic Memory Systems at scale** and developing **Cross-Platform FaaS (XFaaS)** for one-touch deployment of hybrid cloud applications (AWS/Azure).
+* **Federated Learning:** Researching scalable architectures for **Federated Machine Learning (FedML)**.
+
+
+* **Teaching Assistant (DS256: Scalable Systems for Data Science):**
+* Assisting Professor Yogesh Simmhan in guiding students through large-scale distributed computing concepts.
+* **Infrastructure & Curriculum:** Orchestrating the lab’s **inaugural Language Model training pipeline**. Guiding students in architecting data pipelines for **4TB of CommonCrawl data** using **Apache Spark** on an **HDFS cluster**.
+* **Distributed Training:** Supervising the implementation of **PyTorch Distributed** for training and inference of LLMs on cluster environments.
+
+
+
+**Associate Data Scientist – AI & ML Dept. @ Harman DTS**
+**Jan 2024 – Jan 2025**
+
+* **Tech Lead (Gen-AI Invoice Processing):** Architected a multi-agent system with **Ray** and **Prefect**, achieving optimized processing time via parallel execution. Fine-tuned **Qwen 2.5 VL** (3B) using QLora to achieve 78% F1-score.
 * **Tech Lead (SecOps Copilot):** Developed an incident triaging agent integrating **Microsoft Sentinel** & **MISP**, reducing Mean Time to Respond (MTTR) by **40%**.
-* **Research:** Investigating RL-based fine-tuning (GRPO, R-Zero) and cognitive frameworks (planning, memory) for autonomous agents.
-* **Mentorship:** Conducting AI agent development sessions for 100+ engineers.
+* **Mentorship:** Conducted AI agent development sessions for 100+ engineers.
 
 ---
 
 ### 🛠️ Tech Stack
 
 | Domain | Technologies |
-| :--- | :--- |
+| --- | --- |
 | **Languages** | Python, C++, C, Java, SQL |
-| **GenAI & Agents** | LangChain, LangGraph, Autogen, LlamaIndex, Ollama, Hugging Face, Galileo |
-| **ML & DL** | PyTorch, TensorFlow, Transformers, Scikit-learn, MLFlow |
-| **MLOps & Infra** | Docker, Kubernetes, Prefect, Ray (Distributed ML), AWS, GCP, Azure |
-| **Databases** | Qdrant (Vector), Neo4j (Graph), PostgreSQL, MongoDB, AWS DocumentDB |
+| **Distributed Systems** | **Apache Spark**, **HDFS**, **PyTorch Distributed**, Ray, Prefect |
+| **GenAI & Agents** | LangChain, LangGraph, Autogen, LlamaIndex, Ollama, Hugging Face |
+| **Cloud & MLOps** | **XFaaS**, AWS, GCP, Azure, Docker, Kubernetes, MLFlow |
+| **Databases** | Qdrant (Vector), Neo4j (Graph), PostgreSQL, MongoDB |
 | **Backend** | FastAPI, Django, RESTful Services, SSE Streaming |
 
 ---
 
 ### 🧪 Research & Personal Projects
 
-* **[PokeAgent - NeurIPS/Google DeepMind Challenge]** *Leading a team to develop a VLM-powered autonomous agent for long-horizon planning.* * **Tech:** Neo4j (Lore Mapping), NetworkX (Task Planning), Custom A* Planner.
-    * **Focus:** Generalized HTN (Hierarchical Task Network) planning frameworks.
+* **[PokeAgent - NeurIPS/Google DeepMind Challenge]**
+* Leading a team to develop a VLM-powered autonomous agent for long-horizon planning.
+* **Tech:** Neo4j (Lore Mapping), NetworkX (Task Planning), Custom A* Planner.
+* **Focus:** Generalized HTN (Hierarchical Task Network) planning frameworks.
 
-* **[English-to-Hinglish Translation]** * Trained Seq2Seq Transformer models on code-mixed datasets, reducing training time from 30 mins to 2 mins while eliminating repetition.
 
-* **[IEEE Publication: Deep Learning in Fashion]** * Proposed a CNN-GAN architecture for virtual try-on and neural body fit estimation.  
+* **[English-to-Hinglish Translation]**
+* Trained Seq2Seq Transformer models on code-mixed datasets, reducing training time from 30 mins to 2 mins while eliminating repetition.
+
+
+* **[IEEE Publication: Deep Learning in Fashion]**
+* Proposed a CNN-GAN architecture for virtual try-on and neural body fit estimation.
+
+
 
 ---
 
@@ -57,3 +82,4 @@ I specialize in architecting **multi-agent frameworks**, **cognitive planning sy
 ---
 
 Feel free to [connect with me on LinkedIn](https://linkedin.com/in/Haseeba3)
+
