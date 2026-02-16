@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Haseeb Kollorath
 
-I’m a **Research Staff Member at IISc DREAM Lab** and a Machine Learning Practitioner specializing in **Cloud Computing**, **Scalable Agentic Systems**, and **Federated Learning**. My work focuses on building infrastructure for **Massive Agent Interaction Workflows**, **Distributed Agent Architectures**, and **Hybrid Cloud Applications (XFaaS)**.
+I’m a **Research Staff Member at IISc DREAM Lab** and a Machine Learning Practitioner specializing in **Cloud Computing** and **Scalable Agentic Systems**. My work focuses on building infrastructure for **Massive Agent Interaction Workflows**, **Distributed Agent Architectures**, and **Hybrid Cloud Applications (XFaaS)**.
 
 Previously at **Harman International (Samsung)**, I led initiatives in multi-agent frameworks and SecOps automation. I am deeply invested in bridging the gap between distributed systems and advanced AI, currently facilitating the training of large-scale language models on distributed clusters.
 
@@ -14,12 +14,11 @@ Previously at **Harman International (Samsung)**, I led initiatives in multi-age
 * **Research Focus:**
   * **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
   * **Memory & Infrastructure:** Investigating **Agentic Memory Systems at scale** and developing **Cross-Platform FaaS (XFaaS)** for one-touch deployment of hybrid cloud applications (AWS/Azure).
-  * **Federated Learning:** Researching scalable architectures for **Federated Machine Learning (FedML)**.
 
 
 * **Teaching Assistant (DS256: Scalable Systems for Data Science):**
   * Assisting Professor Yogesh Simmhan in guiding students through large-scale distributed computing concepts.
-  * **Infrastructure & Curriculum:** Orchestrating the lab’s **inaugural Language Model training pipeline**. Guiding students in architecting data pipelines for **4TB of CommonCrawl data** using **Apache Spark** on an **HDFS cluster**.
+  * **Infrastructure & Curriculum:** Orchestrating the lab’s **inaugural Language Model pretraining pipeline**. Guiding students in architecting data pipelines for **4TB of CommonCrawl data** using **Apache Spark** on an **HDFS cluster**.
   * **Distributed Training:** Supervising the implementation of **PyTorch Distributed** for training and inference of LLMs on cluster environments.
 
 
