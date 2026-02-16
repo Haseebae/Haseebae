@@ -68,7 +68,7 @@ Previously at **Harman International (Samsung)**, I led initiatives in multi-age
 
 * **Be Brilliant Rising Star Innovation Award (Sep 2025)** – Recognized by Harman DTS for R&D in multi-agent systems.
 * **Co-Founder & CTO @ Olivia Family Restaurant** – Built an AI-powered billing system reducing validation time by **96%**.
-* **Solving for India Hackathon Winner** – Geeks for Geeks / Google / AMD.
+* **Solving for India Hackathon Institutional Winner** – Geeks for Geeks / Google / AMD.
 
 ---
 
