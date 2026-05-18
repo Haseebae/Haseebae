@@ -11,7 +11,7 @@ Previously at **Harman DTS (now Wipro)**, I led initiatives in multi-agent frame
 **Research Staff – Cloud & Agentic Systems @ IISc DREAM Lab**
 **Jan 2026 – Present**
 
-* **Research Focus:**
+**Research Focus:**
 * **FaaS & Agentic Orchestration:** Co-authored and currently leading incremental research on *FAME*, a middleware that optimizes FaaS platforms (AWS Step Functions/Lambda) for Model Context Protocol (MCP) enabled agentic workflows.
 * **Scalable Agents:** Architecting systems for **massive agent interaction workflows** and **distributed agent orchestration** to enable high-concurrency autonomous operations.
 * **Memory & Infrastructure:** Investigating **Agentic Memory Systems at scale** and developing **Cross-Platform FaaS (XFaaS)** for one-touch deployment of hybrid cloud applications.
