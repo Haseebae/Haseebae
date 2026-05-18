@@ -8,7 +8,7 @@ Previously at **Harman DTS (now Wipro)**, I led initiatives in multi-agent frame
 
 ### 🚀 Professional & Research Experience
 
-**Research Staff – Cloud & Agentic Systems @ IISc DREAM Lab**
+Project Associate – Scalable Agentic Systems @ IISc DREAM Lab**
 **Jan 2026 – Present**
 
 **Research Focus:**
